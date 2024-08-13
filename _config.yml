@@ -32,14 +32,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/GP Grid banner size.png"
+avatar: "assets/img/GP White text transp bckgrnd.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: 'assets/img/GP Black text transp bckgrnd.png'
+title-img: 'assets/img/KIN 440 Banner.png'
 
 
 #####################################
@@ -147,9 +147,9 @@ page-col: "#FFFFFF"
 text-col: "#212721"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#881c1c" # UMass maroon
+navbar-col: "#ebbebe" # UMass maroon
 navbar-text-col: "#212721" #black
-navbar-border-col: "#505759"
+navbar-border-col: "#881c1c"
 footer-col: "#881c1c"
 footer-text-col: "#212721"
 footer-link-col: "#404040"
