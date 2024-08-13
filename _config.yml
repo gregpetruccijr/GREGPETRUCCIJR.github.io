@@ -32,14 +32,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/GP Black text transp bckgrnd.png"
+avatar: "assets/img/UMass GP cropped square.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: assets/img/GP b_w Grid.png
+title-img: assets/img/GP Grid banner size.png
 
 
 #####################################
@@ -54,7 +54,7 @@ social-network-links:
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: gregpetruccijr
-  X: GregJPetrucciJr
+  #X: GregJPetrucciJr
   linkedin: greg-j-petrucci-jr
   ORCID: 0000-0001-8808-2159
   google-scholar: Greg J Petrucci Jr
@@ -98,7 +98,7 @@ rss-description: This website is working....
 
 # Select which social network share links to show in posts
 share-links-active:
-  X: true
+  #X: true
   linkedin: true
   github: true
   instagram: true
@@ -147,8 +147,8 @@ page-col: "#FFFFFF"
 text-col: "#212721"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#505759"
+navbar-col: "#881c1c" # UMass maroon
+navbar-text-col: "#505759" #gray
 navbar-border-col: "881c1c"
 footer-col: "#881c1c"
 footer-text-col: "#777777"
