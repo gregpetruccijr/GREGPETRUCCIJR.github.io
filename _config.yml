@@ -147,7 +147,7 @@ page-col: "#FFFFFF"
 text-col: "#212721"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#ebbebe" # UMass maroon
+navbar-col: "#505759" 
 navbar-text-col: "#212721" #black
 navbar-border-col: "#881c1c"
 footer-col: "#881c1c"
