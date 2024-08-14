@@ -1,3 +1,3 @@
 # Welcome!
 
-![ ](assets/img/Greg Petrucci text logo.png)
+![alt text]("assets/img/Greg Petrucci text logo.png")
