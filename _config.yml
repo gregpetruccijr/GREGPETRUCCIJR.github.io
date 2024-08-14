@@ -19,34 +19,15 @@ author: Greg Petrucci
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#  Home: "https://gregpetrucci.com"
-#  Research: "research"
-#  Pubs: "pubs"
-#  Teaching: "teaching"
-#  Blog: "blog"
-#  Support: "support"
-#  Contact: "https://fantastical.app/gpetrucci/admin-asst"
+ navbar-links:
+  Home: "https://gregpetrucci.com"
+  Research: "research"
+  Pubs: "pubs"
+  Teaching: "teaching"
+  Blog: "blog"
+  Support: "support"
+  Calendar: "https://fantastical.app/gpetrucci/admin-asst"
 
-navbar:
-  title: Home
-  left:
-  - text: Home
-    href: "https://gregpetrucci.com"
-  - text: Research
-    href: research.md
-  - text: Pubs
-    href: pubs.md
-  - text: Courses
-    href: teaching.md
-  - text: Blog
-    href: blog.md
-  - text: More
-    menu:
-    - text: Support Me
-      href: support.md
-    - text: Calendar
-      href: "https://fantastical.app/gpetrucci/admin-asst"
 
 ################
 # --- Logo --- #
