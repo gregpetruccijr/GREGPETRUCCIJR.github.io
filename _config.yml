@@ -21,12 +21,13 @@ author: Greg Petrucci
 
 navbar-links:
  Home: "https://gregpetrucci.com"
- Research: "  "
+ Research: "research"
  Pubs: "pubs"
- Teaching: "  "
- Blog: "/"
- Support: "support"
- Calendar: "https://fantastical.app/gpetrucci/admin-asst"
+ Teaching: "teaching"
+ Blog: "https://gregpetrucci.com/blog/"
+ More:
+ - Support: "support"
+ - Calendar: "https://fantastical.app/gpetrucci/admin-asst"
 
 ################
 # --- Logo --- #
