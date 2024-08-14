@@ -71,8 +71,9 @@ title-img: 'assets/img/Greg Petrucci text logo.png'
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
+# rss: false  # remove this line if you don't want to show an RSS link at the bottom
+ 
 social-network-links:
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
     email: "gp@gregpetrucci.com"
     github: gregpetruccijr
     twitter: GregJPetrucciJr
