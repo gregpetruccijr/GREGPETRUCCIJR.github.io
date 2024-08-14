@@ -6,7 +6,7 @@
 
 
 **Publications, Conference Abstracts, and Presentations📚**
-- [📚](pubs.md) (publications page) lists  refereed publications, conference abstracts, presentations, and more. Including a _.pdf_ of my (somewhat up-to-date?) [CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
+- [Pubs](pubs.md) (publications page) lists  refereed publications, conference abstracts, presentations, and more. Including a _.pdf_ of my (somewhat up-to-date?) [CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
 
 **Teaching**
 - Teaching is equally important and exciting to me as working in the lab. Connecting with undergraduate students is so much fun.  [My CV](PetrucciJr_CV_03_28_24.pdf) lists all my teaching experiences (e.g., laboratory teaching assistantships and instructor of record).
