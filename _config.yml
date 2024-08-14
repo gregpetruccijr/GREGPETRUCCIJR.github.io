@@ -17,16 +17,15 @@ author: Greg Petrucci
 
 ###############################################
 # --- List of links in the navigation bar --- #
-###############################################
-
+##############################################
  navbar-links:
-  Home: "https://gregpetrucci.com"
-  Research: "research"
-  Pubs: "pubs"
-  Teaching: "teaching"
-  Blog: "blog"
-  Support: "support"
-  Calendar: "https://fantastical.app/gpetrucci/admin-asst"
+ Home: "https://gregpetrucci.com"
+ Research: 
+ Pubs: "pubs"
+ Teaching: 
+ Blog: "blog.html"
+ Support: "support"
+ Calendar: "https://fantastical.app/gpetrucci/admin-asst"
 
 
 ################
