@@ -107,7 +107,7 @@ subtitle:
 
 ---
 ### CV (.pdf)
-[Click here to download and view a _.pdf_ of my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf)
+[Click here to download and view a _.pdf_ of my CV](https://gregpetrucci.com/assets/pdfs/PetrucciJr_CV_03_28_24.pdf)
 
 
 <p>&nbsp;</p>
