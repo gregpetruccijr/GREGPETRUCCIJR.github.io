@@ -19,15 +19,15 @@ ext-js:
 
 ## A Personal Academic Website {#subtitle}
 
-### [Research](https://gregpetrucci.com/research/) {#subtitle}
+#### [Research](https://gregpetrucci.com/research/) {#subtitle}
 
-### [Publications](https://gregpetrucci.com/pubs/) {#subtitle}
+#### [Publications](https://gregpetrucci.com/pubs/) {#subtitle}
 
-### [Teaching](https://gregpetrucci.com/teaching/) {#subtitle}
+#### [Teaching](https://gregpetrucci.com/teaching/) {#subtitle}
 
-### [Blog](https://gregpetrucci.com/blog/) {#subtitle}
+#### [Blog](https://gregpetrucci.com/blog/) {#subtitle}
 
-#### Website template by [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+##### Website template by [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
 
 <div id="cta-out" class="page-section">
