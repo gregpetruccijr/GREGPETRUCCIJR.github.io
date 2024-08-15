@@ -17,7 +17,15 @@ ext-js:
 
 # GregPetrucci.com {#title}
 
-## Research {#subtitle}
+## A Personal Academic Website {#subtitle}
+
+### [Research](https://gregpetrucci.com/research/) {#subtitle}
+
+### [Publications](https://gregpetrucci.com/pubs/) {#subtitle}
+
+### [Teaching](https://gregpetrucci.com/teaching/) {#subtitle}
+
+### [Blog](https://gregpetrucci.com/blog/) {#subtitle}
 
 #### Website template by [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
