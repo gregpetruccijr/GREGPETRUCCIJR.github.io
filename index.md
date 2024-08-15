@@ -27,6 +27,12 @@ ext-js:
 
 ### [Blog](https://gregpetrucci.com/blog/)
 
+|  |	|
+|---------------------|	---------------------|
+|[Research](https://gregpetrucci.com/research/)|[Publications](https://gregpetrucci.com/pubs/)|
+|[Teaching](https://gregpetrucci.com/teaching/)|[Blog](https://gregpetrucci.com/blog/)|
+|[Admin Asst](https://fantastical.app/gpetrucci/admin-asst) | [Support my work](https://gregpetrucci.com/support/)|
+
 ##### Website template by [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
 
