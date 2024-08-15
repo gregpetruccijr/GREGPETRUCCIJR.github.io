@@ -31,12 +31,3 @@ ext-js:
 
 ### [Support my work](https://gregpetrucci.com/support/) {#subtitle}
 
-
-<div id="cta-out" class="page-section">
-  <div id="cta">
-    <div class="section-title">GregPetrucci.com</div><br/>
-  </div>
-  
-</div>
-
-</div>
