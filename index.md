@@ -36,7 +36,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">GregPetrucci.com Admin Asst](https://fantastical.app/gpetrucci/admin-asst)
+    <div class="section-title">GregPetrucci.com [Admin Asst](https://fantastical.app/gpetrucci/admin-asst)
 </div><br/>
   </div>
   
