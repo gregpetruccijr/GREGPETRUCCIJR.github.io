@@ -31,8 +31,6 @@ ext-js:
 
 ### [Support my work](https://gregpetrucci.com/support/) {#subtitle}
 
-##### Website template by [Dean Attali](https://deanattali.com/) 
-
 
 <div id="cta-out" class="page-section">
   <div id="cta">
