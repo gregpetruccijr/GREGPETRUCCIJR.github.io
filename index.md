@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Greg Petrucci | Personal Academic Website"
+title: "GregPetrucci.com"
 css:
   - /assets/css/index.css
 ext-css:
@@ -19,7 +19,7 @@ ext-js:
 
 ## A Personal Academic Website {#subtitle}
 
-#### [Research](https://gregpetrucci.com/research/) {#subtitle}
+#### [Research](https://gregpetrucci.com/research/) 
 
 #### [Publications](https://gregpetrucci.com/pubs/) {#subtitle}
 
@@ -34,10 +34,7 @@ ext-js:
   <div id="cta">
     <div class="section-title">GregPetrucci.com</div><br/>
   </div>
-  <a href="/contact" class="actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
-    Contact Us
-  </a>
+  
 </div>
 
 </div>
