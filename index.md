@@ -19,13 +19,13 @@ ext-js:
 
 ## A Personal Academic Website {#subtitle}
 
-#### [Research](https://gregpetrucci.com/research/) 
+### [Research](https://gregpetrucci.com/research/) 
 
-#### [Publications](https://gregpetrucci.com/pubs/) {#subtitle}
+### [Publications](https://gregpetrucci.com/pubs/)
 
-#### [Teaching](https://gregpetrucci.com/teaching/) {#subtitle}
+### [Teaching](https://gregpetrucci.com/teaching/)
 
-#### [Blog](https://gregpetrucci.com/blog/) {#subtitle}
+### [Blog](https://gregpetrucci.com/blog/)
 
 ##### Website template by [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
