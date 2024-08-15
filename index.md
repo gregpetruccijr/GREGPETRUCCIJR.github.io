@@ -29,15 +29,14 @@ ext-js:
 
 ### [Admin Asst](https://fantastical.app/gpetrucci/admin-asst) {#subtitle}
 
-### Support my work](https://gregpetrucci.com/support/){#subtitle}
+### [Support my work](https://gregpetrucci.com/support/){#subtitle}
 
 ##### Website template by [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">GregPetrucci.com [Admin Asst](https://fantastical.app/gpetrucci/admin-asst)
-</div><br/>
+    <div class="section-title">GregPetrucci.com</div><br/>
   </div>
   
 </div>
