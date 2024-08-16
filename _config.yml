@@ -57,16 +57,17 @@ title-img: 'assets/img/left home-2.png'
 social-network-links:
     email: "gp@gregpetrucci.com"
     github: gregpetruccijr
-    twitter: GregJPetrucciJr
-    linkedin: greg-j-petrucci-jr
-    ORCID: 0000-0001-8808-2159
     google-scholar: Greg J Petrucci Jr
-    telephone: +14133452078
+    ORCID: 0000-0001-8808-2159
+    linkedin: greg-j-petrucci-jr
+    twitter: GregJPetrucciJr
+    instagram: i_picthetruch
     spotify: 1286606072?si=30477cd6f790426c
-#  instagram: i_picthetruch
+    telephone: +14133452078
+
 # patreon: DeanAttali
 # youtube: "@daattali"
-# whatsapp: 15551212
+
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -151,7 +152,7 @@ page-col: "#FFFFFF"
 text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#3ba5ff" #lighter blue than ^
-navbar-col: "#505759" 
+navbar-col: "#f9f9f9" 
 navbar-text-col: "#000000" #black
 navbar-border-col: "#881c1c"
 footer-col: "#505759"
