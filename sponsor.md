@@ -40,14 +40,14 @@ I use all of the brands/products listed in my workflow. Depending on the brand/p
 
 1. [Grammarly](https://www.grammarly.com/referrals/redeem?key=3zico4dz0ur4601x)
   - I'm loving Grammarly and have a few invites to share! Try it free for a month—it really changed how I write.
-   
-2.[Sanebox](https://www.sanebox.com/signup/b9ff339bf2/c)
+2. [Sanebox](https://www.sanebox.com/signup/b9ff339bf2/c)
  - SaneBox restores sanity to your Inbox by prioritizing the incoming email that actually matters and is relevant to your day. Less important emails are automatically filtered into a separate folder and then summarized in a daily digest. We also have a full suite of other features that boost your email productivity.   
 3. [NordVPN](https://ref.nordvpn.com/DQvvKawvwfv)
   -  Surf the Net Without a Trace — Secure your connection, passwords, and files with Nord.
 4. [Secretlab](https://secretlabus.refr.cc/gregpetrucci)
   - When you spend  hours a day seated in the same position, no matter how optimal, stress builds up in your body. Movement is crucial to relieving this strain. TITAN Evo is designed to promote natural posture changes and movement.
   - “The best posture is your next posture.” Professor Stuart M. McGill, Ph.D. (Kinesiology (Biomechanics)), Distinguished Professor Emeritus, University of Waterloo.
+
 
 ## Other Ways to Support  
 <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
