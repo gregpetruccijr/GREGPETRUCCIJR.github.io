@@ -29,5 +29,5 @@ ext-js:
 
 ### [Admin Asst](https://fantastical.app/gpetrucci/admin-asst) {#subtitle}
 
-### [Support my work](https://gregpetrucci.com/support/) {#subtitle}
+### [Sponsor my work](https://gregpetrucci.com/sponsor/) {#subtitle}
 
