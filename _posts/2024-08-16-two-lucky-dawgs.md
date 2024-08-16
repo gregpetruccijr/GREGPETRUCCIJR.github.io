@@ -2,7 +2,7 @@
 layout: post
 title: Two Lucky Dawgs Are Seeing Shane Gillis at Mohegan Sun Arena on 8/16/2024
 subtitle: Free Tickets Giveaway- Shane Gillis 8/16/2024
-cover-img: assets/img/course-flyer.png
+cover-img: assets/img/Dawgs_seat_map.png
 thumbnail-img: assets/img/Dawgs_seat_map.png
 gh-repo: gregpetruccijr/gregpetruccijr.github.io
 gh-badge: [follow]
@@ -33,5 +33,5 @@ I can be reached by __carrier pigeon__ at the following:
 
   
 
-
+assets/img/name_email_address.png
 
