@@ -21,6 +21,8 @@ The first person to leave a comment with the info below gets **served first**.
       
 ![](assets/img/name_email_address.png)
 
+[](assets/img/coxdo.png)
+
 
 
 I will send a modern-day _carrier pigeon_ correspondence to **served first** after making the Ticketmaster transfer. In the event that we encounter some Ticketmaster transfer funny buisness and **served first** isn't responding to my _carrier pigeon_, **second comer will be served first**.
