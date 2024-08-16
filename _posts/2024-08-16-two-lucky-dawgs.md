@@ -23,9 +23,10 @@ The first person to leave a comment with the info below gets **served first**.
 
 
 
-I will send a modern-day __carrier pigeon__ correspondence to **served first** after making the Ticketmaster transfer. In the event that we encounter some Ticketmaster transfer funny buisness and **served first** isn't responding to my __carrier pigeon__, **second comer will be served first**.
+I will send a modern-day _carrier pigeon_ correspondence to **served first** after making the Ticketmaster transfer. In the event that we encounter some Ticketmaster transfer funny buisness and **served first** isn't responding to my _carrier pigeon_, **second comer will be served first**.
 
-I can be reached by __carrier pigeon__ at the following: 
+I can be reached by _carrier pigeon_ at the following: 
+
   -  Email 1: <gregorypetrucci@gmail.com>
   -  [Phone 1](tel:7817712485) 781-771-2485
   -  Email 2: <gp@gregpetrucci.com>
@@ -33,5 +34,5 @@ I can be reached by __carrier pigeon__ at the following:
 
   
 
-assets/img/name_email_address.png
+![](assets/img/name_email_address.png)
 
