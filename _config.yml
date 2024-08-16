@@ -26,8 +26,8 @@ navbar-links:
  Blog: "https://gregpetrucci.com/blog/"
  More:
  - Pubs: "pubs"
- - Calendar: "https://fantastical.app/gpetrucci/admin-asst"
- - Support: "support"
+ - Admin Asst: "https://fantastical.app/gpetrucci/admin-asst"
+ - Sponsor: "sponsor"
 
 ################
 # --- Logo --- #
@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/GP logo txt 2.png"
+avatar: "assets/img/GP initials logo-1.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -148,16 +148,16 @@ keywords: "Greg J Petrucci Jr., Greg Petrucci Jr., Greg J Petrucci, Greg Petrucc
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#212721"
+text-col: "#000000"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#3ba5ff" #lighter blue than ^
 navbar-col: "#505759" 
-navbar-text-col: "#212721" #black
+navbar-text-col: "#000000" #black
 navbar-border-col: "#881c1c"
 footer-col: "#505759"
-footer-text-col: "#212721"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#008AFF"
+footer-hover-col: "#055eed" #darker blue than ^
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
