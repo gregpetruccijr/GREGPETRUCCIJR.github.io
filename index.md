@@ -21,18 +21,6 @@ ext-js:
 
 #### [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/), [Blog](https://gregpetrucci.com/blog/), [Admin Asst](https://fantastical.app/gpetrucci/admin-asst), & [Sponsor my work](https://gregpetrucci.com/sponsor/) {#sub-subtitle}
 
-<div id="aboutme-section-out" class="page-section grey-section cut2">
-  <div id="aboutme-section">
-    <div class="section-title">About the Founder</div>
-	<div id="aboutme-list" markdown="1">
-{% for info in site.data.main_info %}
-{% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
-<span class="about-content">{{ info.content }}</span>
-{: .about-text }
-{% endfor %}
-</div>
-  </div>
-</div>
 
       
       
