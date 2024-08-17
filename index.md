@@ -21,14 +21,19 @@ ext-js:
 
 #### [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/), [Blog](https://gregpetrucci.com/blog/), [Admin Asst](https://fantastical.app/gpetrucci/admin-asst), & [Sponsor my work](https://gregpetrucci.com/sponsor/) {#sub-subtitle}
 
-<div class="cut-buffer about-buffer"></div>
-
-<div id="about-out" class="page-section grey-section cut2">
-  <div id="about">
-    <div class="section-title">About Greg</div>
-    <div id="aboutus-text">
-      I am currently a Ph.D. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology) working under the supervision of [John R. Sirard, Ph.D.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research interests lie in using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior, and sleep)..</b>
-    </div>
+<div id="aboutme-section-out" class="page-section grey-section cut2">
+  <div id="aboutme-section">
+    <div class="section-title">About the Founder</div>
+	<div id="aboutme-list" markdown="1">
+{% for info in site.data.main_info %}
+{% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
+<span class="about-content">{{ info.content }}</span>
+{: .about-text }
+{% endfor %}
+</div>
   </div>
 </div>
 
+      
+      
+     
