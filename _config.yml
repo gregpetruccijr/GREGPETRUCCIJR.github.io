@@ -148,8 +148,8 @@ keywords: "Greg J Petrucci Jr., Greg Petrucci Jr., Greg J Petrucci, Greg Petrucc
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#f9f9f9" # white- Bootstrap Colors Color Palette
-text-col: "#f9f9f9"
+page-col: "#ffffff" # white- Bootstrap Colors Color Palette
+text-col: "#00000"
 link-col: "#008AFF"
 hover-col: "#3ba5ff" #lighter blue than ^
 navbar-col:  "#881C1C"    # UMass Maroon
