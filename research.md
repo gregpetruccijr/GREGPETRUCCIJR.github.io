@@ -4,11 +4,7 @@ title: Research
 subtitle: research program
 ---
 
-
 **Research**
-I am currently a Ph.D. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology) working under the supervision of [John R. Sirard, Ph.D.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research interests lie in using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior, and sleep).
-
----
 
 I work on projects related to calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details on a related project we are finishing soon).
 
