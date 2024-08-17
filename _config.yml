@@ -155,7 +155,7 @@ hover-col: "#3ba5ff" #lighter blue than ^
 navbar-col:  "#881C1C"    #"#f9f9f9" # white- Bootstrap Colors Color Palette
 navbar-text-col: "#000000" #black
 navbar-border-col: "#505759"
-footer-col: "#505759" #UMass dark grey
+footer-col: "#505759" #UMass dark grey 
 footer-text-col: "#f9f9f9" # white- Bootstrap Colors Color Palette
 footer-link-col: "#008AFF"
 footer-hover-col: "#055eed" #darker blue than ^
