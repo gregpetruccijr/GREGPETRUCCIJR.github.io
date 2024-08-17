@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/GP initials logo-2.png"
+avatar: "assets/img/GP initials logo final.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -152,7 +152,7 @@ page-col: "#f9f9f9" # white- Bootstrap Colors Color Palette
 text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#3ba5ff" #lighter blue than ^
-navbar-col: "#f9f9f9" # white- Bootstrap Colors Color Palette
+navbar-col:  "#881C1C"    #"#f9f9f9" # white- Bootstrap Colors Color Palette
 navbar-text-col: "#000000" #black
 navbar-border-col: "#505759"
 footer-col: "#505759" #UMass dark grey
