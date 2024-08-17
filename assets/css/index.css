@@ -73,11 +73,11 @@ footer {
 }
 #header h1,
 #header h2 {
-  font-family: Roboto;
+  font-family: 'Berthold City';
 }
 
 #header a {
-  color: #fff;
+  color: #881c1c;
   text-decoration: underline;
 }
 #header a:hover {
