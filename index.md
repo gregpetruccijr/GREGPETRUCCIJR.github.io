@@ -15,9 +15,10 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# Greg Petrucci, M.S. | Ph.D. Student @ [UMass Kinesiology](https://www.umass.edu/public-health-sciences/kinesiology) {#title}
+# Greg Petrucci, M.S. {#title}
+## Ph.D. Student @ [UMass Kinesiology](https://www.umass.edu/public-health-sciences/kinesiology) {#subtitle}
 
-## _A researcher passionate about innovating human health with wearable technology_ {#subtitle}
+## Passionate about using wearable technology to improve human health {#subtitle}
 
 ---
 # [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/) {#title}
