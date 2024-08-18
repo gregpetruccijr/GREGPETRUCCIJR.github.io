@@ -1,5 +1,5 @@
 body, html {
-  font-family: 'Berthold City', 'Aptos Display', Aptos, Aptos, Aptos;
+  font-family: 'Berthold City', 'Aptos Display', 'Open Sans' , Helvetica Neue, Aptos;
   background-color: #fff;
   color: #333;
   margin: 0;
@@ -71,14 +71,17 @@ footer {
   background-image: url(/assets/img/stardust.png);
   animation: animatedBackground 100s linear infinite;
 }
-#header h1,
-#header h2 {
+#header h1,{
   font-family: 'Berthold City';
 }
-
+#header h2 {
+  font-family: 'Roboto';
+}
+#header h3,{
+  font-family: 'Berthold City';
+}
 #header a {
   color: #fff;
-  text-decoration: underline;
 }
 #header a:hover {
   color: #3380d4;
@@ -95,6 +98,14 @@ footer {
 }
 
 #subtitle  {
+  font-weight: light;
+  margin: 0;
+  margin-left: 10.9375rem;
+  font-size: 2.8125rem;
+  line-height: 1.5;
+}
+
+#sub-subtitle  {
   font-weight: normal;
   margin: 0;
   margin-left: 10.9375rem;
@@ -102,7 +113,7 @@ footer {
   line-height: 1.5;
 }
 
-#sub-subtitle {
+#sub-sub-subtitle {
   font-weight: bold;
   font-size: 1.4rem;
   margin-top: 3.75rem;
@@ -151,6 +162,9 @@ footer {
   }
   #sub-subtitle {
     font-size: 1.2rem;
+  }
+  #sub-sub-subtitle {
+    font-size: 1.0rem;
   }
 }
 #aboutme-section {
@@ -210,4 +224,3 @@ footer {
     margin-top: -2.5rem;
   }
 }
-
