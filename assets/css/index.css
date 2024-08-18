@@ -1,5 +1,5 @@
 body, html {
-  font-family: 'Berthold City', 'Aptos Display', 'Open Sans' , Helvetica Neue, Aptos;
+  font-family: 'Berthold City', 'Aptos', Open Sans , Helvetica Neue, Aptos;
   background-color: #fff;
   color: #333;
   margin: 0;
@@ -71,9 +71,7 @@ footer {
   background-image: url(/assets/img/stardust.png);
   animation: animatedBackground 100s linear infinite;
 }
-#header h1,{
-  font-family: 'Berthold City';
-}
+#header h1,
 #header h2 {
   font-family: 'Roboto';
 }
