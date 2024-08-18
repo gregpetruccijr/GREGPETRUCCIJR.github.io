@@ -153,7 +153,7 @@ link-col: "#008AFF"
 hover-col: "#3ba5ff" #lighter blue than ^
 navbar-col:  "#505759"    # UMass Maroon
 navbar-text-col: "#f9f9f9" 
-navbar-border-col: "#881c1c"
+navbar-border-col: "#f9f9f9"
 footer-col: "#505759" #UMass dark grey 
 footer-text-col: "#f9f9f9" 
 footer-link-col: "#008AFF"
