@@ -76,7 +76,10 @@ footer {
   font-family: Roboto;
 }
 
-#header h3,
+#header h3 {
+  font-family: Helvetica Neue;
+}
+
 #header h4 {
   font-family: Berthold City;
 }
@@ -92,25 +95,44 @@ footer {
 }
 
 #title {
-  margin: 0 0 -1.875rem -10.9375rem;
+  font-family: Berthold City;
+  margin: 0 0 -1.875rem -12.9375rem;
   font-size: 6.375rem;
   font-weight: 700;
   line-height: 1.4;
 }
 
 #subtitle  {
-  font-weight: light;
+  font-family: Roboto;
+  font-weight: normal;
   margin: 0;
-  margin-left: 10.9375rem;
+  margin-left: 12.9375rem;
   font-size: 2.8125rem;
   line-height: 1.5;
 }
 
 #sub-subtitle  {
-  font-weight: bold;
-  font-size: 1.4rem;
+  font-family: Helvetica Neue;
+  font-weight: light;
+  font-size: 1.0rem;
   line-height: 1.5;
-  margin-top: 3.75rem;
+  margin-top: 1.0rem;
+}
+
+#con-subtitle {
+  font-family: Berthold City;
+  font-size: 4.0rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-top: 2.0rem;
+}
+
+#mod-subtitle {
+  font-family: Berthold City;
+  font-size: 4.0rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0;
 }
 
 #header .actionbtn-out {
@@ -155,5 +177,5 @@ footer {
     font-size: 1.875rem;
   }
   #sub-subtitle {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
