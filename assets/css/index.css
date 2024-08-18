@@ -99,7 +99,7 @@ footer {
 
 #title {
   font-family: Berthold City;
-  margin: 0 0 -1.875rem -12.9375rem;
+  margin: 0 0 -1.875rem -10.9375rem;
   font-size: 4.375rem;
   font-weight: 700;
   line-height: 1.4;
@@ -109,8 +109,8 @@ footer {
   font-family: Roboto;
   font-weight: normal;
   margin: 0;
-  margin-left: 12.9375rem;
-  font-size: 3.8125rem;
+  margin-left: 10.9375rem;
+  font-size: 2.5rem;
   line-height: 1.5;
 }
 
