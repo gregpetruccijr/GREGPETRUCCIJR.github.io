@@ -78,6 +78,9 @@ footer {
   font-family: 'Roboto';
 }
 #header h3,{
+  font-family: 'Helvetica Neue';
+}
+#header h4,{
   font-family: 'Berthold City';
 }
 #header a {
@@ -106,7 +109,7 @@ footer {
 }
 
 #sub-subtitle  {
-  font-weight: normal;
+  font-weight: light;
   margin: 0;
   margin-left: 10.9375rem;
   font-size: 2.8125rem;
