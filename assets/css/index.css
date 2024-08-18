@@ -1,5 +1,5 @@
 body, html {
-  font-family: 'Berthold City', 'Aptos', Open Sans , Helvetica Neue, Aptos;
+  font-family: 'Berthold City', 'Helvetica Neue', Aptos display, Aptos, Aptos;
   background-color: #fff;
   color: #333;
   margin: 0;
@@ -72,7 +72,7 @@ footer {
   animation: animatedBackground 100s linear infinite;
 }
 #header h1,
-#header h2 {
+#header h2,{
   font-family: 'Roboto';
 }
 #header h3,{
