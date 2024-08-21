@@ -26,6 +26,47 @@ ext-js:
 #### [Blog](https://gregpetrucci.com/blog/), [Admin Asst](https://fantastical.app/gpetrucci/admin-asst), & [Sponsor my work](https://gregpetrucci.com/sponsor/) {#mod-subtitle}
 
 
+</div>
+
+<div id="services-out" class="page-section cut1">
+  <div id="services">
+    <div class="section-title">Pages</div>
+    <div id="services-list">
+      <div class="service">
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
+        <div class="service-text">Research projects and interests</div>
+      </div>
+      <div class="service">
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
+        <div class="service-text">Publications and CV</div>
+      </div>
+      <div id="services-break"></div>
+      <div class="service">
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
+        <div class="service-text">Teaching</div>
+      </div>
+      <div class="service">
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <div class="service-text">Blog</div>
+      </div>
+      <div class="service">
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <div class="service-text">Meeting scheduler</div>
+        </div>
+      <div class="service">
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <div class="service-text">Sponsor my work</div>
+         </div>
+    </div>
+
+    <a href="/contact" class="actionbtn">
+      <span class="far fa-envelope" aria-hidden="true"></span>
+      Contact Us
+    </a>
+  </div>
+</div>
+
+
 
       
       
