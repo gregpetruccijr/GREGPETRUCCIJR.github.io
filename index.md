@@ -33,37 +33,30 @@ ext-js:
     <div class="section-title">Pages</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
+        <img class="service-img" alt="Service image" src="assets/img/icons/research.png" />
         <div class="service-text">Research projects and interests</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
+        <img class="service-img" alt="Service image" src="assets/img/iconspublications.png" />
         <div class="service-text">Publications and CV</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
+        <img class="service-img" alt="Service image" src="assets/img/icons/teaching.png" />
         <div class="service-text">Teaching</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <img class="service-img" alt="Service image" src="assets/img/icons/blog.png" />
         <div class="service-text">Blog</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <img class="service-img" alt="Service image" src="assets/img/icons/meeting.png" />
         <div class="service-text">Meeting scheduler</div>
         </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <img class="service-img" alt="Service image" src="assets/img/icons/sponsor.png" />
         <div class="service-text">Sponsor my work</div>
-         </div>
-    </div>
-
-    <a href="/contact" class="actionbtn">
-      <span class="far fa-envelope" aria-hidden="true"></span>
-      Contact Us
-    </a>
-  </div>
+        </div>
 </div>
 
 
