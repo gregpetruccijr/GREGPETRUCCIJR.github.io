@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Research
-subtitle: research program
+subtitle: research interests and projects
 ---
 
 **Research**
 
 I work on projects related to calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details on a related project we are finishing soon).
 
-The [Pubs page](https://gregpetrucci.com/pubs/) lists my refereed publications, conference abstracts, presentations, and other research deliverables I have worked on. Including, a _.pdf_ of my (somewhat up-to-date?) [CV](https://gregpetrucci.com/assets/pdfs/PetrucciJr_CV_03_28_24.pdf).
+The [publications page](https://gregpetrucci.com/pubs/) lists my refereed publications, conference abstracts, presentations, and other research deliverables I have worked on. Including, a _.pdf_ of my (somewhat up-to-date?) [CV](https://gregpetrucci.com/assets/pdfs/PetrucciJr_CV_03_28_24.pdf).
 
 ---
 
