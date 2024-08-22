@@ -4,6 +4,7 @@ body, html {
   color: #333;
   margin: 0;
   padding: 0;
+  
 }
 
 p a {
@@ -72,7 +73,9 @@ footer {
   animation: animatedBackground 100s linear infinite;
 }
 #header h1 {
-  font-family: Berthold City;
+  font-family: "bigcity-grotesque-pro";
+font-weight: 900;
+font-style: normal;
 }
 
 #header h2 {
@@ -83,8 +86,10 @@ footer {
   font-family: Helvetica Neue;
 }
 
-#header h4 {
-  font-family: Berthold City;
+#header h4 { 
+  font-family: "bigcity-grotesque-pro"; 
+  font-weight: 600;
+  font-style: normal;
 }
 
 #header a {
