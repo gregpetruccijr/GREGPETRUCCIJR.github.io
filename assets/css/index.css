@@ -1,5 +1,5 @@
 body, html {
-  font-family: 'Berthold City', 'Helvetica Neue', Aptos display, Aptos, Aptos;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #fff;
   color: #333;
   margin: 0;
@@ -74,8 +74,8 @@ footer {
 }
 #header h1 {
   font-family: "bigcity-grotesque-pro";
-font-weight: 900;
-font-style: normal;
+  font-weight: 900;
+  font-style: normal;
 }
 
 #header h2 {
@@ -129,7 +129,7 @@ font-style: normal;
 
 #con-subtitle {
   font-family: Berthold City;
-  font-size: 4.0rem;
+  font-size: 3.0rem;
   font-weight: 700;
   line-height: 1.4;
   margin-top: 3.0rem;
@@ -137,7 +137,7 @@ font-style: normal;
 
 #mod-subtitle {
   font-family: Berthold City;
-  font-size: 4.0rem;
+  font-size: 3.0rem;
   font-weight: 700;
   line-height: 1.4;
   margin: 0;
