@@ -19,7 +19,7 @@ ext-js:
 
 ## Ph.D. Student @ [UMass Kinesiology](https://www.umass.edu/public-health-sciences/kinesiology) {#subtitle}
 
-### Developing  and testting software for wearable technologies which aim to improve human health {#sub-subtitle}
+### Developing  and testing software for wearable technologies which aim to improve human health {#sub-subtitle}
 
 #### [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/) {#con-subtitle}
 
