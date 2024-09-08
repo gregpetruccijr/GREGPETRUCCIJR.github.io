@@ -39,7 +39,8 @@ share-img: assets/img/sponsor-gp-img.png
 I use all of the brands/products listed in my workflow. Depending on the brand/product, when you sign up for a subscription or purchase a product with my personalized links below, I receive either a discounted subscription rate, coupons for future purchases, or a small percentage of my initial purchase back in cash (e.g., 5%). Beyond the financial benefit I stand to gain from listing these brands/products here, person to person-- my work has benefitted from using them, and I highly recommend them to others with similar needs. I've tried to include a brief description of each to help others assess if these products are right for their work too.  
 
 1. [Grammarly](https://www.grammarly.com/referrals/redeem?key=3zico4dz0ur4601x)
-  - I'm loving Grammarly and have a few invites to share! Try it free for a month—it really changed how I write.
+  - I love Grammarly and have a few invites to share! Try it **free** for a month—it really changed how I write.
+![](assets/img/grammarly-freemonth.png)
 2. [Sanebox](https://www.sanebox.com/signup/b9ff339bf2/c)
  - SaneBox restores sanity to your Inbox by prioritizing the incoming email that actually matters and is relevant to your day. Less important emails are automatically filtered into a separate folder and then summarized in a daily digest. We also have a full suite of other features that boost your email productivity.   
 3. [NordVPN](https://ref.nordvpn.com/DQvvKawvwfv)
