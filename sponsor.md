@@ -28,7 +28,7 @@ share-img: assets/img/sponsor-gp-img.png
 - At the bottom of that page, you can download and view a _.pdf of my CV_.
 
 **Get in Touch**
-- I am always interested in new collaborations, expanding my research network, and general chatter. Please feel free to email me at gp@gregpetrucci.com for more details on anything mentioned above.
+- I am always interested in new collaborations, expanding my research network, and general chatter. Please email me at gp@gregpetrucci.com for more details on anything mentioned above.
 
 <p>&nbsp;</p>
 <iframe src="https://github.com/sponsors/gregpetruccijr/card" title="Sponsor gregpetruccijr" height="225" width="500" style="border: 0;"></iframe>
@@ -36,13 +36,13 @@ share-img: assets/img/sponsor-gp-img.png
 <p>&nbsp;</p>
 
 ## Sign Up Links 
-I use all of the brands/products listed in my workflow. Depending on the brand/product, when you sign up for a subscription or purchase a product with my personalized links below, I receive either a discounted subscription rate, coupons for future purchases, or a small percentage of my initial purchase back in cash (e.g., 5%). Beyond the financial benefit I stand to gain from listing these brands/products here, person to person-- my work has benefitted from using them, and I highly recommend them to others with similar needs. I've tried to include a brief description of each to help others assess if these products are right for their work too.  
+I use all of the brands/products listed in my workflow. Depending on the brand/product, when you sign up for a subscription or purchase a product with my personalized links below, I receive a discounted subscription rate, coupons for future purchases, or a small percentage of my initial purchase back in cash (e.g., 5%). Beyond the financial benefit I stand to gain from listing these brands/products here, person to person-- my work has benefitted from using them, and I highly recommend them to others with similar needs. I've included a brief description of each to help others assess if these products are suitable for their work, too.  
 
 1. [Grammarly](https://www.grammarly.com/referrals/redeem?key=3zico4dz0ur4601x)
-  - I love Grammarly and have a few invites to share! Try it **free** for a month—it really changed how I write.
+  - I love Grammarly and have a few invites to share! Try it **free** for a month—it changed how I write.
 ![](assets/img/grammarly-freemonth.png)
 2. [Sanebox](https://www.sanebox.com/signup/b9ff339bf2/c)
- - SaneBox restores sanity to your Inbox by prioritizing the incoming email that actually matters and is relevant to your day. Less important emails are automatically filtered into a separate folder and then summarized in a daily digest. We also have a full suite of other features that boost your email productivity.   
+ - SaneBox restores sanity to your Inbox by prioritizing the incoming email that matters and is relevant to your day. Less essential emails are automatically filtered into a separate folder and summarized in a daily digest. We also have a full suite of other features that boost your email productivity.   
 3. [NordVPN](https://ref.nordvpn.com/DQvvKawvwfv)
   -  Surf the Net Without a Trace — Secure your connection, passwords, and files with Nord.
 4. [Secretlab](https://secretlabus.refr.cc/gregpetrucci)
@@ -50,6 +50,16 @@ I use all of the brands/products listed in my workflow. Depending on the brand/p
   - “The best posture is your next posture.” Professor Stuart M. McGill, Ph.D. (Kinesiology (Biomechanics)), Distinguished Professor Emeritus, University of Waterloo.
 
 
-## Other Ways to Support  
+## Other Mechanisms of Support 
+#### gpetrucci's RedBubble Shop
 <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
 <script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'gpetrucci', 2, 2).renderIframe();</script>
+#### Purchase a Birthday Gift for Kitty :)
+  - [Murka & Boots' Amazon wishlist](https://www.amazon.com/registries/gl/guest-view/1A8UBV2RLJUQ0)
+#### Other Petrucci-family-owned small businesses
+- [Petrucci Electrical Service, Inc.](http://petruccielectric.com/)
+   - Owned and operated by my father, Greg Petrucci Sr., since 1992
+   - _Norwood, Ma_
+- [SideDoor Cafe](https://maps.app.goo.gl/raMANRhh2XrsfUwV9)
+   - Co-owned by my father, Greg Petrucci Sr., since 2024
+   - _Norwood, Ma_
