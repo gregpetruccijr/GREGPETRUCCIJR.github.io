@@ -73,9 +73,9 @@ footer {
   animation: animatedBackground 100s linear infinite;
 }
 #header h1 {
-  font-family: "bigcity-grotesque-pro";
+  font-family: Open Sans;
   font-weight: 900;
-  font-style: normal;
+  font-style: bold;
 }
 
 #header h2 {
@@ -83,13 +83,13 @@ footer {
 }
 
 #header h3 {
-  font-family: Helvetica Neue;
+  font-family: Open Sans;
 }
 
 #header h4 { 
-  font-family: "bigcity-grotesque-pro"; 
+  font-family: Open Sans; 
   font-weight: 600;
-  font-style: normal;
+  font-style: bold;
 }
 
 #header a {
@@ -103,10 +103,10 @@ footer {
 }
 
 #title {
-  font-family: "bigcity-grotesque-pro";
+  font-family: Open Sans;
   margin: 0 0 -1.875rem -10.9375rem;
-  font-size: 4.375rem;
-  font-weight: 700;
+  font-size: 6.375rem;
+  font-weight: 900;
   line-height: 1.4;
 }
 
@@ -121,7 +121,7 @@ footer {
 
 #sub-subtitle  {
   font-family: Open Sans;
-  font-weight: Bold;
+  font-weight: normal;
   font-size: 1.4rem;
   line-height: 3.75;
   margin-top: 1.0rem;
@@ -141,7 +141,7 @@ footer {
   margin-top: 7rem;
   color: #fff;
   background: #881c1c;
-  border: 2px solid #fff;
+  border: 1px solid #fff;
 }
 #header .actionbtn:hover,
 #header .actionbtn:focus {
@@ -149,7 +149,7 @@ footer {
   background: #fff;
 }
 .actionbtn {
-  font-size: 1.5rem;
+  font-size: 2.75rem;
 }
 @media only screen and (max-width: 750px) {
   .actionbtn {
