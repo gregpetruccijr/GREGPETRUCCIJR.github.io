@@ -103,7 +103,7 @@ footer {
 }
 
 #title {
-  font-family: Berthold City;
+  font-family: "bigcity-grotesque-pro";
   margin: 0 0 -1.875rem -10.9375rem;
   font-size: 4.375rem;
   font-weight: 700;
@@ -120,27 +120,18 @@ footer {
 }
 
 #sub-subtitle  {
-  font-family: Aptos;
-  font-weight: light;
-  font-size: 1.0rem;
-  line-height: 1.5;
+  font-family: Open Sans;
+  font-weight: Bold;
+  font-size: 1.4rem;
+  line-height: 3.75;
   margin-top: 1.0rem;
 }
 
 #con-subtitle {
-  font-family: Berthold City;
-  font-size: 3.0rem;
-  font-weight: 700;
-  line-height: 1.4;
-  margin-top: 3.0rem;
 }
 
 #mod-subtitle {
-  font-family: Berthold City;
-  font-size: 3.0rem;
-  font-weight: 700;
-  line-height: 1.4;
-  margin: 0;
+  
 }
 
 #header .actionbtn-out {
@@ -154,7 +145,7 @@ footer {
 }
 #header .actionbtn:hover,
 #header .actionbtn:focus {
-  color: #05172d;
+  color: #881c1c;
   background: #fff;
 }
 .actionbtn {
