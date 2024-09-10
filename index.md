@@ -19,16 +19,16 @@ ext-js:
 
 ## Ph.D. Student @ [UMass Kinesiology](https://www.umass.edu/public-health-sciences/kinesiology) {#subtitle}
 
-### Developing  and testing software for wearable technologies which aim to improve human health {#sub-subtitle}
+### Developing & testing Wearable technologies aimed at improving human health {#sub-subtitle}
 
-#### [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/) {#con-subtitle}
+<a href="https://gregpetrucci.com/research/" class="actionbtn">
+  <span class="journal-text" aria-hidden="true"></span>
+  Research
+</a>
+{: .actionbtn-out :}
 
-#### [Blog](https://gregpetrucci.com/blog/), [Admin Asst](https://fantastical.app/gpetrucci/admin-asst), & [Sponsor my work](https://gregpetrucci.com/sponsor/) {#mod-subtitle}
+</div>
 
+###### [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/) {#con-subtitle}
 
-
-
-
-      
-      
-     
+###### [Blog](https://gregpetrucci.com/blog/), [Admin Asst](https://fantastical.app/gpetrucci/admin-asst), & [Sponsor my work](https://gregpetrucci.com/sponsor/) {#mod-subtitle}
