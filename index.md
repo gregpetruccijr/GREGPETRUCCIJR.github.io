@@ -26,9 +26,29 @@ ext-js:
   Research
 </a>
 {: .actionbtn-out :}
-
+<a href="https://gregpetrucci.com/pubs/" class="actionbtn">
+  <span class="journal-text" aria-hidden="true"></span>
+  Publications
+</a>
+{: .actionbtn-out :}
+<a href="https://gregpetrucci.com/teaching/" class="actionbtn">
+  <span class="journal-text" aria-hidden="true"></span>
+  Teaching
+</a>
+{: .actionbtn-out :}
+<a href="https://gregpetrucci.com/blog/" class="actionbtn">
+  <span class="journal-text" aria-hidden="true"></span>
+  Blog
+</a>
+{: .actionbtn-out :}
+<a href="https://fantastical.app/gpetrucci/admin-asst" class="actionbtn">
+  <span class="journal-text" aria-hidden="true"></span>
+  Admin Asst.
+</a>
+{: .actionbtn-out :}
+<a href="https://gregpetrucci.com/sponsor/" class="actionbtn">
+  <span class="journal-text" aria-hidden="true"></span>
+  Sponsor My Work
+</a>
+{: .actionbtn-out :}
 </div>
-
-###### [Research](https://gregpetrucci.com/research/), [Publications](https://gregpetrucci.com/pubs/), [Teaching](https://gregpetrucci.com/teaching/) {#con-subtitle}
-
-###### [Blog](https://gregpetrucci.com/blog/), [Admin Asst](https://fantastical.app/gpetrucci/admin-asst), & [Sponsor my work](https://gregpetrucci.com/sponsor/) {#mod-subtitle}
