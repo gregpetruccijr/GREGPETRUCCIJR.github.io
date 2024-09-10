@@ -88,8 +88,8 @@ footer {
 
 #header h4 { 
   font-family: Open Sans; 
-  font-weight: 600;
-  font-style: bold;
+  font-weight: 300;
+  font-style: normal;
 }
 
 #header a {
@@ -122,9 +122,9 @@ footer {
 #sub-subtitle  {
   font-family: Open Sans;
   font-weight: normal;
-  font-size: 1.4rem;
-  line-height: 3.75;
-  margin-top: 1.0rem;
+  font-size: 2.0rem;
+  line-height: 2.0;
+  margin-top: 0.5rem;
 }
 
 #con-subtitle {
