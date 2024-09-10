@@ -158,7 +158,7 @@ navbar-border-col: "#f9f9f9"
 footer-col: "#505759" #UMass dark grey 
 footer-text-col: "#f9f9f9" 
 footer-link-col: "#008AFF"
-footer-hover-col: "#055eed" #darker blue than ^
+footer-hover-col: "#2294f5" #lighter blue than ^
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
