@@ -21,30 +21,12 @@ ext-js:
 
 ### Developing & testing Wearable technologies aimed at improving human health {#sub-subtitle}
 
-<a href="https://gregpetrucci.com/research/" class="actionbtn">
-  <span class="journal-text" aria-hidden="true"></span>
-  Research
-</a>
 {: .actionbtn-out :}
 <a href="https://gregpetrucci.com/pubs/" class="actionbtn">
   <span class="journal-text" aria-hidden="true"></span>
   Publications
 </a>
 {: .actionbtn-out :}
-<a href="https://gregpetrucci.com/teaching/" class="actionbtn">
-  <span class="journal-text" aria-hidden="true"></span>
-  Teaching
-</a>
-{: .actionbtn-out :}
-<a href="https://gregpetrucci.com/blog/" class="actionbtn">
-  <span class="journal-text" aria-hidden="true"></span>
-  Blog
-</a>
-{: .actionbtn-out :}
-<a href="https://fantastical.app/gpetrucci/admin-asst" class="actionbtn">
-  <span class="journal-text" aria-hidden="true"></span>
-  Admin Asst.
-</a>
 {: .actionbtn-out :}
 <a href="https://gregpetrucci.com/sponsor/" class="actionbtn">
   <span class="journal-text" aria-hidden="true"></span>
