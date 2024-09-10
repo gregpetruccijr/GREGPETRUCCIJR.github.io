@@ -140,12 +140,12 @@ footer {
 #header .actionbtn {
   margin-top: 7rem;
   color: #fff;
-  background: #05172d;
+  background: #881c1c;
   border: 2px solid #fff;
 }
 #header .actionbtn:hover,
 #header .actionbtn:focus {
-  color: #881c1c;
+  color: #3380d4;
   background: #fff;
 }
 .actionbtn {
