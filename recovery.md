@@ -6,3 +6,6 @@ cover-img: assets/img/recovery-gp.png
 thumbnail-img: assets/img/recovery-gp.png
 share-img: assets/img/recovery-gp.png
 ---
+
+<script src=”https://www.bigbooksponsorship.org/tools/recovery.js”
+type=”text/javascript” id=”sc”></script>
