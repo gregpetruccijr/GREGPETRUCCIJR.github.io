@@ -2,15 +2,12 @@
 layout: page
 title: Recovery
 subtitle: Hi, my name is Greg-- I am an drug addict and alcoholic. 
-cover-img: assets/img/recovery-gp.png
+cover-img: 
 thumbnail-img: assets/img/recovery-gp.png
 share-img: assets/img/recovery-gp.png
 ---
 
-<p>&nbsp;</p>
 <script src=”https://www.bigbooksponsorship.org/tools/recovery.js”
-type=”text/javascript” id=”sc”></script>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+type=”text/javascript” id=”sc”> </script>
 
 
