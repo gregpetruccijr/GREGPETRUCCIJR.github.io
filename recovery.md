@@ -7,5 +7,8 @@ thumbnail-img: assets/img/recovery-gp.png
 share-img: assets/img/recovery-gp.png
 ---
 
-I have been sober, by the grace of God and the 12 steps of Alcoholics Anonymous (AA), since 11/06/2024. 
-AA emphasizes that recovery is an ongoing process, not a one-time event, and that a daily reprieve from addiction is "contingent on the maintenance of our spiritual condition." One way I maintain my spiritual condition is by attending AA (or similar recovery meetings) daily. Here is my [weekly meeting schedule](assets/pdfs/Western_Mass_AA_meeting_weekly_schedule_4_3_2025.pdf). 
+**I have been sober, by the grace of God and the 12 steps of Alcoholics Anonymous (AA), since 11/06/2024.**
+
+- AA emphasizes that recovery is an ongoing process, not a one-time event, and that a daily reprieve from addiction is _"contingent on the maintenance of our spiritual condition."_
+- One way I maintain my spiritual condition is by attending AA (or similar recovery meetings) daily.
+- Here is my [weekly meeting schedule](assets/pdfs/Western_Mass_AA_meeting_weekly_schedule_4_3_2025.pdf). 
