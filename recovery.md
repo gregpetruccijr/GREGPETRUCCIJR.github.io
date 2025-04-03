@@ -12,3 +12,12 @@ share-img: assets/img/recovery-gp.png
 - AA emphasizes that recovery is an ongoing process, not a one-time event, and that a daily reprieve from addiction is _"contingent on the maintenance of our spiritual condition."_
 - One way I maintain my spiritual condition is by attending AA (or similar recovery meetings) daily.
 - Here is my [weekly meeting schedule](assets/pdfs/Western_Mass_AA_meeting_weekly_schedule_4_3_2025.pdf). 
+
+**The following institutions supported my recovery journey**
+
+- [The Plymouth House](https://www.theplymouthhouse.com/)
+  - Residential Inpatient Treatment (21 days)
+- [Massachusetts Center for Addiction](https://masscenterforaddiction.com/)
+  - Partial Hospitalization and Intensive Outpatient Programs (90 days)
+- [Peak Recovery Solutions (The Quinn House)](https://www.instagram.com/peak_recovery_solutions/)
+  - Men's sober living house (60 days)
