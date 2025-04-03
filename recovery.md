@@ -2,7 +2,7 @@
 layout: page
 title: Recovery
 subtitle: Hi, my name is Greg-- I am an alcoholic. 
-cover-img: 
+cover-img: assets/img/recovery-gp.png
 thumbnail-img: assets/img/recovery-gp.png
 share-img: assets/img/recovery-gp.png
 ---
