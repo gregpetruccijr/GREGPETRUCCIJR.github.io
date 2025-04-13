@@ -25,7 +25,7 @@ The first person to leave a comment with the info below gets **served first**.
 
 
 
-I will send a modern-day _carrier pigeon_ correspondence to **served first** after making the Ticketmaster transfer. In the event that we encounter some Ticketmaster transfer funny buisness and **served first** isn't responding to my _carrier pigeon_, **second comer will be served first**.
+I will send a modern-day _carrier pigeon_ correspondence to **served first** after making the Ticketmaster transfer. In the event that we encounter some Ticketmaster transfer funny business and **served first** isn't responding to my _carrier pigeon_, **second comer will be served first**.
 
 I can be reached by _carrier pigeon_ at the following: 
 
