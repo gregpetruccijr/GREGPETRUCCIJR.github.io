@@ -29,13 +29,13 @@ Although my journey is still in its infancy (_I'm 157 days sober at the time of 
   - My (_full_) story
     - i.e., what it was like, what happened, and what it is like now
     - Experience, strength, and hope  
-  - _Academic perspectives_ applied to the ['Model of Addiction'](assets/pdfs/The Model of Addiction.pdf)
+  - _Academic perspectives_ applied to the ['Model of Addiction'](https://gregpetrucci.com/assets/pdfs/The Model of Addiction.pdf)
   - Other helpful resources I find or make, like this [iOS shortcut](https://www.icloud.com/shortcuts/78e74fc6c9c749b196cf1d26353cca1d), which reads that AA daily reflection to you. 
 
 
 #### References:
 [^1]: Centers for Disease Control and Prevention. (2024, April 25). _Treatment of Substance Use Disorders_. [https://www.cdc.gov/overdose-prevention/treatment/index.html](https://www.cdc.gov/overdose-prevention/treatment/index.html)
 [^2]: Alcoholics Anonymous. (n.d.). _What is AA?_ Retrieved April 12, 2025, from [https://www.aa.org/what-is-aa](https://www.aa.org/what-is-aa)
-[^3]: Alcoholics Anonymous. (1939). Foreword to First Edition. In _[Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism](assets/pdfs/en_bigbook_forewordfirstedition.pdf)_ [(p. xiii)]((assets/pdfs/en_bigbook_forewordfirstedition.pdf)
-[^4]: Alcoholics Anonymous World Services, Inc. (1989). _Twelve steps and twelve traditions_. Alcoholics Anonymous World Services. [(p.p. 106-125)](assets/pdfs/en_step12.pdf)
-[^5]: Alcoholics Anonymous World Services, Inc. (2001). _Alcoholics Anonymous_ (4th ed.). [(p.p. 59-60)](assets/pdfs/en_bigbook_chapt5.pdf)
+[^3]: Alcoholics Anonymous. (1939). Foreword to First Edition. In _[Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism](https://gregpetrucci.com/assets/pdfs/en_bigbook_forewordfirstedition.pdf)_. (p. xiii)
+[^4]: Alcoholics Anonymous World Services, Inc. (1989). _[Twelve steps and twelve traditions](https://gregpetrucci.com/assets/pdfs/en_step12.pdf)_. Alcoholics Anonymous World Services. (p.p. 106-125)
+[^5]: Alcoholics Anonymous World Services, Inc. (2001). _[Alcoholics Anonymous_ (4th ed.)](https://gregpetrucci.com/assets/pdfs/en_bigbook_chapt5.pdf). (p.p. 59-60)
