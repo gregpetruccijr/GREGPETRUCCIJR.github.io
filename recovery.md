@@ -31,5 +31,4 @@ share-img: assets/img/recovery-gp.png
 - Alcoholics Anonymous // Recovery [YouTube](https://www.youtube.com/@gregpetrucci) playlist I compiled.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWwwqoNqy9pDnTToopi4aYArrE1eHOAM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - A similar [Spotify](https://open.spotify.com/user/1286606072?si=1531d8aa57064bb0) playlist I made.
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4edN0nkeXf2QDiqgLzCt4l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4edNOnkeXf2QDiqgLzCt4l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
