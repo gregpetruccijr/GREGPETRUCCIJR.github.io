@@ -38,4 +38,4 @@ Although my journey is still in its infancy (_I'm 157 days sober at the time of 
 [^2]: Alcoholics Anonymous. (n.d.). _What is AA?_ Retrieved April 12, 2025, from [https://www.aa.org/what-is-aa](https://www.aa.org/what-is-aa)
 [^3]: Alcoholics Anonymous. (1939). Foreword to First Edition. In _[Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism](https://gregpetrucci.com/assets/pdfs/en_bigbook_forewordfirstedition.pdf)_. (p. xiii)
 [^4]: Alcoholics Anonymous World Services, Inc. (1989). _[Twelve steps and twelve traditions](https://gregpetrucci.com/assets/pdfs/en_step12.pdf)_. Alcoholics Anonymous World Services. (p.p. 106-125)
-[^5]: Alcoholics Anonymous World Services, Inc. (2001). _[Alcoholics Anonymous_ (4th ed.)](https://gregpetrucci.com/assets/pdfs/en_bigbook_chapt5.pdf). (p.p. 59-60)
+[^5]: Alcoholics Anonymous World Services, Inc. (2001). _[Alcoholics Anonymous_ (4th ed.)](https://gregpetrucci.com/assets/pdfs/en_bigbook_chapt5.pdf)_. (p.p. 59-60)
