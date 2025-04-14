@@ -24,7 +24,7 @@ I have spent the majority of the academic year (AY) 2024-2025 in treatment for s
 1. The institutions that helped me get sober
 2. _Some information_ on how I have maintained my sobriety since graduating from those institutions
 
-Although my journey is still in its infancy (_I'm 157 days sober at the time of writing this post), the new way of life I have learned in the fellowship of [Alcoholics Anonymous](https://www.aa.org/)[^2] has saved me from a "seemingly hopeless state of mind and body"[^3]. Given the gravity and honesty of that statement, taken with the twelfth step[^4] of the AA Twelve Step program[^5], I will continue to add more to this page. Here are some ideas I have for additional content:
+Although my journey is still in its infancy (_I'm 157 days sober at the time of writing this post_), the new way of life I have learned in the fellowship of [Alcoholics Anonymous](https://www.aa.org/)[^2] has saved me from a "seemingly hopeless state of mind and body"[^3]. Given the gravity and honesty of that statement, taken with the twelfth step[^4] of the AA Twelve Step program[^5], I will continue to add more to this page. Here are some ideas I have for additional content:
 
   - My (_full_) story
     - i.e., what it was like, what happened, and what it is like now
