@@ -35,7 +35,7 @@ Although my journey is still in its infancy (_I'm 157 days sober at the time of 
 
 #### References:
 [^1]: Centers for Disease Control and Prevention. (2024, April 25). _Treatment of Substance Use Disorders_. [https://www.cdc.gov/overdose-prevention/treatment/index.html](https://www.cdc.gov/overdose-prevention/treatment/index.html)
-[^2]: Alcoholics Anonymous. (n.d.). _What is AA?_ Retrieved April 12, 2025, from [https://www.aa.org/what-is-aa?_gl=11s8beqt_upMQ.._gs*MQ..&gclid=Cj0KCQjwnui_BhDlARIsAEo9GusU5Kjft2-_nflAkXKCJgk7wm3vW8u28Tix0w_3NTOKFXJHsRkIp1oaAvgqEALw_wcB&gbraid=0AAAAACwDQRFeQaowMDxRiA55P1wd5hJZ7](https://www.aa.org/what-is-aa?_gl=11s8beqt_upMQ.._gs*MQ..&gclid=Cj0KCQjwnui_BhDlARIsAEo9GusU5Kjft2-_nflAkXKCJgk7wm3vW8u28Tix0w_3NTOKFXJHsRkIp1oaAvgqEALw_wcB&gbraid=0AAAAACwDQRFeQaowMDxRiA55P1wd5hJZ7)
-[^3]: Alcoholics Anonymous. (1939). Foreword to First Edition. In _[Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism](assets/pdfs/en_bigbook_forewordfirstedition.pdf)_ (p. xiii)
+[^2]: Alcoholics Anonymous. (n.d.). _What is AA?_ Retrieved April 12, 2025, from [https://www.aa.org/what-is-aa](https://www.aa.org/what-is-aa)
+[^3]: Alcoholics Anonymous. (1939). Foreword to First Edition. In _[Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism](assets/pdfs/en_bigbook_forewordfirstedition.pdf)_ [(p. xiii)]((assets/pdfs/en_bigbook_forewordfirstedition.pdf)
 [^4]: Alcoholics Anonymous World Services, Inc. (1989). _Twelve steps and twelve traditions_. Alcoholics Anonymous World Services. [(p.p. 106-125)](assets/pdfs/en_step12.pdf)
 [^5]: Alcoholics Anonymous World Services, Inc. (2001). _Alcoholics Anonymous_ (4th ed.). [(p.p. 59-60)](assets/pdfs/en_bigbook_chapt5.pdf)
