@@ -14,7 +14,7 @@ author: GP
 I think the subtitle of this post,
 
 '''
-A ‘Work-in-Progress’ Page That Seeks To Tell My Drug Addiction Story and Share Recovery Resources
+A Work-in-Progress Page That Seeks To Tell My Drug Addiction Story and Share Recovery Resources
 '''
 
 would be sufficient for this blog, but I'm a _(recovering)_ self-centered alcoholic and drug addict-- so I suppose I'll take some time to talk about myself some more :D.
