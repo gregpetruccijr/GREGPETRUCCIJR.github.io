@@ -25,3 +25,8 @@ share-img: assets/img/recovery-gp.png
   - Men's sober living house (60 days)
 
 ![Rule 52](assets/img/Rule 62.png)
+
+**Here are some other resources that I find helpful in maintaining my sobriety:**
+
+- Alcoholics Anonymous // Recovery YouTube playlist I compiled.
+<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLWwwqoNqy9pDnTToopi4aYArrE1eHOAM7&si=JpqkybjrVzc9ESgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
