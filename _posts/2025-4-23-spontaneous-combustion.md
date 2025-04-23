@@ -22,5 +22,11 @@ I watched the film [_Don't Worry, He Won't Get Far on Foot_](https://g.co/kgs/gF
 >> 3.) Don't drink.
 >> 4.) And if you think you're gonna drink, call me first, never after. 
 
+---
+_temp, notes_
+- [ ] Include the transcript of Michael Callahan's final (AA meeting) share from the film Don't Worry He Won't Get Far on Foot. Add text to the image below:
 
-![Thanks Evolution](assets/img/Thanks Evolution.png)
+[Thanks Evolution](assets/img/Thanks Evolution.png)
+
+- [ ] Embed YouTube clip of that scene from the film
+- [ ] My general thoughts on the film: making amends does not equal apologizing, forgive yourself, etc.
