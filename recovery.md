@@ -11,7 +11,7 @@ share-img: assets/img/recovery-gp.png
 
 - AA emphasizes that recovery is an ongoing process, not a one-time event and that a daily reprieve from addiction is _"contingent on the maintenance of our spiritual condition."_
 - One way I maintain my spiritual condition is by attending AA (or similar recovery meetings) daily.
-  - Here is my [weekly meeting schedule](assets/pdfs/Western_Mass_AA_meeting_weekly_schedule_4_3_2025.pdf). 
+  - Here is my [weekly meeting schedule](assets/pdfs/Weekly_meeting_schedule_4_30_2025.pdf). 
 
 ![Easy does it, but do it](assets/img/Easy does it but do it.png)
 
